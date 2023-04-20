@@ -2,22 +2,22 @@
 This is a web application testing and quality assurance project, which involves performing various tasks such as user story analysis, test scenario development, automation test script preparation and execution, bug finding, and bug reporting.  
 # Task 1: User Story Analysis and Test Scenario Development
 
-****User Story 0001: Add About us link option in footer of the application
+****User Story 0001: Add About us link option in footer of the application  
 
-**Description: The scope of this US is to provide ‘About us’ link so that users can click on the link and get all the details about the organization vision and mission.
+**Description: The scope of this US is to provide ‘About us’ link so that users can click on the link and get all the details about the organization vision and mission.  
 
-**Acceptance Criteria:**  
-1. Users should be able to click on the ‘About us’ link
-2. ‘About us’ link should be displayed in footer part (as per the mock-up)
-3. When user click on the ‘About us’ link system will navigate to new page which display the Organization Vision and Mission.
-4. ‘About us’ link should be available for all the tabs (Home, Cricket, Football, Basketball and Ciber Sports)
-# Task 2: Prepare Automation Test Script and also perform the test execution
-**Automation Testing Scenario:**  
-1.Launch the application: https://test-nf.com/english.html  
-2. Verify the availability of each tab(Home, Cricket, Football, Basketball and Ciber Sports)  
-3. Verify URL of each tab contains the tab name.  
-4. Store all the current URL in excel sheet.  
-**Note:** Implement Page Object model, Assertion for Validation, Excel Sheet Integration for passing System properties and application URL.  
+**Acceptance Criteria:**    
+1.Users should be able to click on the ‘About us’ link.    
+2.‘About us’ link should be displayed in footer part (as per the mock-up).  
+3.When user click on the ‘About us’ link system will navigate to new page which display the Organization Vision and Mission.  
+4.‘About us’ link should be available for all the tabs (Home, Cricket, Football, Basketball and Ciber Sports).  
+# Task 2: Prepare Automation Test Script and also perform the test execution  
+**Automation Testing Scenario:**    
+1.Launch the application: https://test-nf.com/english.html    
+2.Verify the availability of each tab(Home, Cricket, Football, Basketball and Ciber Sports).    
+3.Verify URL of each tab contains the tab name.    
+4.Store all the current URL in excel sheet.    
+**Note:** Implement Page Object model, Assertion for Validation, Excel Sheet Integration for passing System properties and application URL.    
 
 # Task 3: Bug finding and bug reporting
 Here is the list of bugs found in the different sections of the web application. The priority and severity of each bug are also mentioned.
@@ -57,14 +57,14 @@ Here is the list of bugs found in the different sections of the web application.
 •	Text not fully visible in second story article on Cibersport Page. (Priority: Medium, Severity: High)
  
 
-# Tools and Technologies Used
-**Automation Testing Tool:** Selenium
-**Programming Language:** Java
-**Testing Framework:** TestNG
-**Build Tool:** Maven
-**IDE:** Eclipse
-**Excel Sheet** Integration: Apache POI
-# Contributors
-**Name-** Farhan Javaid
-**Email-** magreyfarhan123@gmail.com
+# Tools and Technologies Used  
+**Automation Testing Tool:** Selenium  
+**Programming Language:** Java  
+**Testing Framework:** TestNG  
+**Build Tool:** Maven  
+**IDE:** Eclipse  
+**Excel Sheet** Integration: Apache POI  
+# Contributors  
+**Name-** Farhan Javaid  
+**Email-** magreyfarhan123@gmail.com  
 
