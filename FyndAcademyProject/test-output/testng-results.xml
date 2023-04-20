@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-04-20T17:05:37 IST" name="Default suite" finished-at="2023-04-20T17:08:41 IST" duration-ms="183209">
+    <groups>
+    </groups>
+    <test started-at="2023-04-20T17:05:37 IST" name="Default test" finished-at="2023-04-20T17:08:41 IST" duration-ms="183209">
+      <class name="webappliction.VerifyingElements">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:webappliction.VerifyingElements@619713e5]" started-at="2023-04-20T17:05:37 IST" name="launchapp" finished-at="2023-04-20T17:06:41 IST" duration-ms="63504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchapp -->
+        <test-method signature="verifyingelement()[pri:0, instance:webappliction.VerifyingElements@619713e5]" started-at="2023-04-20T17:06:41 IST" name="verifyingelement" finished-at="2023-04-20T17:08:41 IST" duration-ms="119574" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingelement -->
+        <test-method is-config="true" signature="closeapp()[pri:0, instance:webappliction.VerifyingElements@619713e5]" started-at="2023-04-20T17:08:41 IST" name="closeapp" finished-at="2023-04-20T17:08:41 IST" duration-ms="103" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeapp -->
+      </class> <!-- webappliction.VerifyingElements -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
