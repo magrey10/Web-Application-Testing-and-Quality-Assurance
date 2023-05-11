@@ -63,7 +63,7 @@ Here is the list of bugs found in the different sections of the web application.
 **Testing Framework:** TestNG  
 **Build Tool:** Maven  
 **IDE:** Eclipse  
-**Excel Sheet** Integration: Apache POI  
+**Excel Sheet** Integration: JXL  
 # Contributors  
 **Name-** Farhan Javaid  
 **Email-** magreyfarhan123@gmail.com  
